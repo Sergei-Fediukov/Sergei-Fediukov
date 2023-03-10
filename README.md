@@ -27,4 +27,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergei-Fediukov&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergei-Fediukov&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergei-Fediukov&theme=Sergei-Fediukov&exclude=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergei-Fediukov&theme=nord_dark)
