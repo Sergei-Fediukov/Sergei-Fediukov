@@ -5,13 +5,11 @@
 
 - 🔶  I’m currently working as software engineer for iTechArt Group, Inc
 
-- 💬 LinkedIn **https://www.linkedin.com/in/sergei-fediukov**
+- 💬 LinkedIn: https://www.linkedin.com/in/sergei-fediukov
+- ⚪️ E-mail: i09091989@gmail.com
+- 🔴 Web-site: https://portfolio-sergei-fediukov.vercel.app
 
-- ⚪️ E-mail **i09091989@gmail.com**
-
-- 🔴 Web-site **https://portfolio-sergei-fediukov.vercel.app**
-
-<h3 align="left">💻 Technologies</h3>
+<h3 align="left">Technologies:</h3>
 
 - Front-end: HTML, CSS/SASS/LESS, JS, TS, Redux, GraphQL
 - Back-end: Node.js 
