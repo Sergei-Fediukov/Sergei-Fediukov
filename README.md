@@ -25,4 +25,4 @@
 - Graphic editors: Adobe Photoshop, Figma
 - Useful libraries worked with: react-query, i18n, react-chartjs-2, openstreetmap, date-fns/momentjs/luxon
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nord&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&theme=nord&show_icons=true)
