@@ -3,9 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dg6nys3ff/image/upload/v1678437734/gitHub/laptop.gif">
 
 - 🔶  I’m currently working as software engineer for iTechArt Group, Inc
+
 - 💬 LinkedIn: https://www.linkedin.com/in/sergei-fediukov
+
 - ⚪️ E-mail: i09091989@gmail.com
+
 - 🔴 Web-site: https://portfolio-sergei-fediukov.vercel.app
+
 <h3 align="left">Technologies:</h3>
 
 - Front-end: HTML, CSS/SASS/LESS, JS, TS, Redux, GraphQL
