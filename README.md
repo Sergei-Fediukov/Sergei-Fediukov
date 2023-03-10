@@ -26,3 +26,4 @@
 - Useful libraries worked with: react-query, i18n, react-chartjs-2, openstreetmap, date-fns/momentjs/luxon
 - 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&theme=nord&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergei-Fediukov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
