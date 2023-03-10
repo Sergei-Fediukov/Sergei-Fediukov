@@ -1,16 +1,28 @@
-### Hi there 👋
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**Sergei-Fediukov/Sergei-Fediukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Sergei</h1>
+<h3 align="center">Software Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dg6nys3ff/image/upload/v1678437734/gitHub/laptop.gif">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔶  I’m currently working as software engineer for iTechArt Group, Inc
+
+- 💬 LinkedIn **https://www.linkedin.com/in/sergei-fediukov**
+
+- ⚪️ E-mail **i09091989@gmail.com**
+
+- 🔴 Web-site **https://portfolio-sergei-fediukov.vercel.app**
+
+<h3 align="left">💻 Technologies</h3>
+
+- Front-end: HTML, CSS/SASS/LESS, JS, TS, Redux, GraphQL
+- Back-end: Node.js 
+- Frameworks: React, Express.js, Next.js, Nest.js
+- Database: MongoDB, PostgreSQL, Redis, Firebase,
+- ODM/ORM: Mongoose, Sequelize, Prisma
+- Deploy: Docker, Vercel, Heroku
+- CI: CircleCI
+- Source Control: Git
+- Testing: Jest, Enzyme, Supertest
+- Graphic editors: Adobe Photoshop, Figma
+- Useful libraries worked with: react-query, i18n, react-chartjs-2, openstreetmap, date-fns/momentjs/luxon
