@@ -24,3 +24,14 @@
 - Testing: Jest, Enzyme, Supertest
 - Graphic editors: Adobe Photoshop, Figma
 - Useful libraries worked with: react-query, i18n, react-chartjs-2, openstreetmap, date-fns/momentjs/luxon
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&show_icons=true" />
+</picture>
