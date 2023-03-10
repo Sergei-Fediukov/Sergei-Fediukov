@@ -24,8 +24,8 @@
 - Testing: Jest, Enzyme, Supertest
 - Graphic editors: Adobe Photoshop, Figma
 - Useful libraries worked with: react-query, i18n, react-chartjs-2, openstreetmap, date-fns/momentjs/luxon
-<h3 align="center">
+<hr/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergei-Fediukov&theme=nord_dark)
-</h3>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergei-Fediukov&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergei-Fediukov&theme=nord_dark)
+<hr/>
