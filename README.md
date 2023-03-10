@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sergei</h1>
-<hr/>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dg6nys3ff/image/upload/v1678437734/gitHub/laptop.gif">
+<img align="right" alt="Coding" width="500" src="https://res.cloudinary.com/dg6nys3ff/image/upload/v1678437734/gitHub/laptop.gif">
 
 - 🔶  I’m currently working as software engineer for iTechArt Group, Inc
 
