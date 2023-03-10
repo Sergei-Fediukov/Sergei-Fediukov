@@ -26,8 +26,8 @@
 - Useful libraries worked with: react-query, i18n, react-chartjs-2, openstreetmap, date-fns/momentjs/luxon
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&show_icons=true&theme=nord"
+  media="(prefers-color-scheme: nord)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Sergei-Fediukov&show_icons=true"
