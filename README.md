@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">Hi there 👋, I'm Sergei</h1>
 <h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dg6nys3ff/image/upload/v1678437734/gitHub/laptop.gif">
