@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sergei</h1>
 <img align="right" alt="Coding" width="350" src="https://res.cloudinary.com/dg6nys3ff/image/upload/v1678437734/gitHub/laptop.gif">
 
-- 🔶  I’m currently working as software engineer for iTechArt Group, Inc
+- 🔶  I’m currently working as software engineer for Vention, Inc
 
 - 💬 LinkedIn: https://www.linkedin.com/in/sergei-fediukov
 
